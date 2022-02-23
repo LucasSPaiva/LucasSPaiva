@@ -1,7 +1,7 @@
 <p align="center"> <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hey there! I'm Lucas</h1> </p>
 
 
-<img align="right" alt="GIF" src="https://64.media.tumblr.com/0db54d53e5a8e374ad13a4162e69093b/tumblr_mf5v1uX4Pn1rlzw9do1_500.gif" width="480" height="513" />
+<img align="right" alt="GIF" src="https://64.media.tumblr.com/0db54d53e5a8e374ad13a4162e69093b/tumblr_mf5v1uX4Pn1rlzw9do1_500.gif" width="280" height="313" />
 
 ### 👨🏻‍💻 About Me
 
