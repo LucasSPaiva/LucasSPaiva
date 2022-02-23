@@ -8,6 +8,7 @@
 💡 I like to explore new technologies and learning how to develop software solutions and quick hacks.\
 🎓 I'm currently studying Computer Science at PUC Minas - Campus Poços de Caldas - MG - Brazil.\
 🌱 I'm on track for learning more about Web Development and Artificial Intelligence.\
+📚 I am currently studying JavaScript, HTML and CSS.\
 ✍️ In my spare time, I try to learn to draw and play the keyboard as hobbies/side activities.\
 💬 Feel free to contact me for a chat or anything...
 ___
