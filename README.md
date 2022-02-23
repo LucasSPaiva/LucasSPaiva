@@ -1,16 +1,16 @@
-### Hi there 👋
+<p align="center"> <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hey there! I'm Lucas</h1> </p>
 
-<!--
-**LucasSPaiva/LucasSPaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img align="right" alt="GIF" src="https://64.media.tumblr.com/0db54d53e5a8e374ad13a4162e69093b/tumblr_mf5v1uX4Pn1rlzw9do1_500.gif" width="480" height="513" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨🏻‍💻 About Me
+
+💡 I like to explore new technologies and learning how to develop software solutions and quick hacks.\
+🎓 I'm currently studying Computer Science at PUC Minas - Campus Poços de Caldas - MG - Brazil.\
+🌱 I'm on track for learning more about Web Development and Artificial Intelligence.\
+✍️ In my spare time, I try to learn to draw and play the keyboard as hobbies/side activities.\
+💬 Feel free to contact me for a chat or anything...
+___
+![Lucas github stats](https://github-readme-stats.vercel.app/api?username=lucasspaiva&show_icons=true&theme=onedark) 
+___
+> *See you space cowboy...*
