@@ -10,7 +10,8 @@
 🌱 I'm on track for learning more about Web Development and Artificial Intelligence.\
 📚 I am currently studying JavaScript, HTML and CSS.\
 ✍️ In my spare time, I try to learn to draw and play the keyboard as hobbies/side activities.\
-💬 Feel free to contact me for a chat or anything...
+💬 Feel free to contact me for a chat or anything...\
+<a href="https://www.linkedin.com/in/lucas-de-souza-paiva-9629151b0/">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> or **Discord: Lucas Paiva#3091** 
 ___
 ![Lucas github stats](https://github-readme-stats.vercel.app/api?username=lucasspaiva&show_icons=true&theme=onedark) 
 ___
