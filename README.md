@@ -14,7 +14,4 @@
 💬 Feel free to contact me for a chat or anything...\
 <a href="https://www.linkedin.com/in/lucas-de-souza-paiva-9629151b0/">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> or in Discord: ***Lucas Paiva#3091***.
 ___
-
-![Lucas github stats](https://github-readme-stats.vercel.app/api?username=lucasspaiva&show_icons=true&theme=onedark) 
-___
 > *See you space cowboy...*
