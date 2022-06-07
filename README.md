@@ -12,3 +12,5 @@
 
 
 ![Metrics](/github-metrics.svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=LucasSPaiva&theme=default&color=blue&style=flat&label=profile+views)
